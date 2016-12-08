@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Sciurus.NeonAscent"
+    android:versionCode="3"
+    android:versionName="Re:Encoded" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/neonlogo"
+        android:label="@string/app_name"
+        android:logo="@drawable/neonlogo"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+        </activity>
+
+        <activity
+            android:name=".MainMenuEntry"
+            android:icon="@drawable/neonlogo"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".Test"
+            android:label="@string/title_activity_test" >
+        </activity>
+
+
+        <activity
+            android:name=".EndGameActvity"
+            android:label="@string/title_activity_end_game_actvity"
+            android:launchMode="singleTask" >
+        </activity>
+
+
+        <activity
+            android:name=".Introscreen"
+            android:label="How to play" >
+        </activity>
+    </application>
+
+</manifest>

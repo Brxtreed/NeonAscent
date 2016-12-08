@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-5138825859bdff18befbf02d9a0da0c8c203e0a8.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-ac9d06158f1944676fb6ed4a8d04ec418ffdab2e.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/pre-dexed/debug/classes-1231c0fcea1c01ee1d04035a32b94a0c6f1c0f38.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/pre-dexed/debug/classes-33e46d22528e11a7fe064e9420a9ae46618158fb.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-135c26893fecd5cfcd8e913a62621fc117f5a52d.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/braxtonreed/Git Projects/NeonAscent/app/build/intermediates/pre-dexed/debug/classes-f999f513aab20943a97c9a14fcb61704ee461efe.jar" />
+    </item>
+    <item
+        jar="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/braxtonreed/AndroidStudioProjects/NeonAscent/app/build/intermediates/pre-dexed/debug/classes-a2728f0e0aedaf37f635041942792ddbe2eb1d2d.jar" />
+    </item>
+
+</items>

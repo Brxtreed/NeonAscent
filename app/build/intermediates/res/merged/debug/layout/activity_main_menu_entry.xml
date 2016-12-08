@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Black"
+    android:orientation="vertical"
+    tools:context="com.Sciurus.NeonAscent.MainMenuEntry" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="NeonAscent"
+        android:textColor="@color/Cyan"
+        android:id="@+id/textView"
+
+        android:layout_margin = "50dp"
+
+        android:textSize="25dp"
+
+
+        android:layout_gravity="center_horizontal"
+         />
+
+    <Button
+        android:id="@+id/playbutton"
+        android:background = "@drawable/my_button_selector"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+
+        
+        android:layout_margin = "25dp"
+        android:text="Play"
+         />
+
+    <Button
+        android:id="@+id/howto"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/my_button_selector"
+
+
+        android:layout_margin = "25dp"
+        android:text="How to Play"
+         />
+    
+     <Button
+        android:id="@+id/likebutton"
+        android:layout_width="match_parent"
+         android:layout_height="40dp"
+        android:background="@drawable/my_button_selector"
+
+         android:layout_margin = "25dp"
+        android:text="Like us on Facebook" />
+
+</LinearLayout>
+<!-- From: file:/Users/braxtonreed/Git%20Projects/NeonAscent/app/src/main/res/layout/activity_main_menu_entry.xml -->
